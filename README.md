@@ -2,6 +2,15 @@ yosefede06
 r301299
 
 *******************************
+*        Screenshots          *
+*******************************
+
+<img align="center" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen1.png" />
+<img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen2.png" />
+<img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen3.png" />
+<img align="center" alt="HTML" width="28px" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen4.png" />
+
+*******************************
 *       Differences UML       *
 *******************************
 
@@ -113,12 +122,5 @@ The main differences of our UML are the following:
     7 - The game mode is to kill 10 zombies before time runs out, it is lost when time runs out or the 3
         lives given at the start of the game are lost.
 
-*******************************
-*        Screenshots          *
-*******************************
 
-<img align="center" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen1.png" />
-<img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen2.png" />
-<img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen3.png" />
-<img align="center" alt="HTML" width="28px" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen4.png" />
 

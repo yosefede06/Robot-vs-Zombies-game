@@ -8,7 +8,7 @@ r301299
 <img align="center" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen1.png" />
 <img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen2.png" />
 <img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen3.png" />
-<img align="center" alt="HTML" width="28px" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen4.png" />
+<img align="center" alt="HTML" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen4.png" />
 
 *******************************
 *       Differences UML       *

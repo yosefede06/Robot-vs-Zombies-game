@@ -54,7 +54,7 @@ The main differences of our UML are the following:
 
 
 
-    - Our main dilemmas and decisions for the implementation were the followings:
+   - Our main dilemmas and decisions for the implementation were the followings:
 
         1 - Collisions with Terrain: To efficiently handle collisions with terrain, we have implemented two layers:
         TOP_TERRAIN_BLOCKS_LAYER and TERRAIN_LAYER. On PepseGameManager, we allow only the TOP_TERRAIN_BLOCKS_LAYER
@@ -80,25 +80,25 @@ The main differences of our UML are the following:
         values used to create the zombies.
 
 
-    For the bonus we added the following:
+   For the bonus we added the following:
 
-    1 - Zombies that walk around the field that if they touch the main character they take away a life.
-    2 - Each sheet is a "sticky note" that when clicked can write text that when pressing enter becomes the text
-        of the sheet. A subsequent click on the sheet shows the text. To indicate that the sheet contains text,
-        it is turned 45 degrees. By pressing the right button on the sheet,
-        it falls and is replaced by a new sheet without text.
-    3 - We've creates a world based on a certain seed (string), it is not only the same as the one created by
-        another person, but the sticky notes are also shared. This means that the contents of all the notes
-        for a particular seed are synchronized in an HTML file. Running the file you will see a table of seeds
-        and next to them a category. For example, for the seed "movies", the notes in the same shared world contain
-        names of favorite movies from different users. When a user enters this seed at the start of execution,
-        they will see the world where the notes are. By clicking the left button on a sheet, you can add your own movie,
-        And by clicking the right button, you can make one of the populated sheets fall and restart.
-    4 - The player becomes a glider when flying and both can shoot bullets that kill zombies.
-    5 - We hold Life, time, energy and dead zombie counters that will determine the player's victory or defeat
-    6 - We have decided to implement a robot and zombies because they are our favorite characters.
-    7 - The game mode is to kill 10 zombies before time runs out, it is lost when time runs out or the 3
-        lives given at the start of the game are lost.
+ 1 - Zombies that walk around the field that if they touch the main character they take away a life.
+ 2 - Each sheet is a "sticky note" that when clicked can write text that when pressing enter becomes the text
+     of the sheet. A subsequent click on the sheet shows the text. To indicate that the sheet contains text,
+     it is turned 45 degrees. By pressing the right button on the sheet,
+     it falls and is replaced by a new sheet without text.
+ 3 - We've creates a world based on a certain seed (string), it is not only the same as the one created by
+     another person, but the sticky notes are also shared. This means that the contents of all the notes
+     for a particular seed are synchronized in an HTML file. Running the file you will see a table of seeds
+     and next to them a category. For example, for the seed "movies", the notes in the same shared world contain
+     names of favorite movies from different users. When a user enters this seed at the start of execution,
+     they will see the world where the notes are. By clicking the left button on a sheet, you can add your own movie,
+     And by clicking the right button, you can make one of the populated sheets fall and restart.
+ 4 - The player becomes a glider when flying and both can shoot bullets that kill zombies.
+ 5 - We hold Life, time, energy and dead zombie counters that will determine the player's victory or defeat
+ 6 - We have decided to implement a robot and zombies because they are our favorite characters.
+ 7 - The game mode is to kill 10 zombies before time runs out, it is lost when time runs out or the 3
+     lives given at the start of the game are lost.
 
 
 

@@ -1,19 +1,9 @@
-yosefede06
-r301299
-
-*******************************
-*        Screenshots          *
-*******************************
-
 <img align="center" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen1.png" />
 <img align="center" alt="HTML" src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen4.png" />
 <img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen2.png" />
 <img align="center" alt="HTML"  src="https://github.com/yosefede06/Robot-vs-Zombies-game/blob/main/screen3.png" />
 
 
-*******************************
-*       Differences UML       *
-*******************************
 
 The main differences of our UML are the following:
 
@@ -49,9 +39,6 @@ The main differences of our UML are the following:
         for the avatar, bullet, and zombie to handle this logic. This allowed us to easily control the movement and
         behavior of these elements in the game or application.
 
-*******************************
-*       Infinite World        *
-*******************************
 
         - We initially tried rendering the full window of our infinite world every time the avatar approached the end.
         However, we quickly realized that this approach was not effective because the rendering was not smooth.
@@ -59,9 +46,6 @@ The main differences of our UML are the following:
         We also maintained a frame of 5 blocks outside the window at all times to ensure that the user is unable
         to see the end of the world while we are updating the rendering.
 
-*******************************
-*     Tree Implementation     *
-*******************************
 
         - We've used the SegmentCompletion to fill blocks for our tree implementation. For the top of the tree,
         We created a class called Leaf and the tree will create all of those leaves.
@@ -69,9 +53,6 @@ The main differences of our UML are the following:
         and contains additional features.
 
 
-*******************************
-*      Our Decisions        *
-*******************************
 
     - Our main dilemmas and decisions for the implementation were the followings:
 
@@ -98,10 +79,6 @@ The main differences of our UML are the following:
         imageReader, livesCounter, killsCounter, and gameObjects collections, as well as the zombiesLayer and seed
         values used to create the zombies.
 
-
-*******************************
-*           Bonus             *
-*******************************
 
     For the bonus we added the following:
 
